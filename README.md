@@ -1,0 +1,2 @@
+# proje
+ilk kodlar
